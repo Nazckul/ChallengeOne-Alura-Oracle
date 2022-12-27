@@ -294,6 +294,10 @@ footer {
         
     }
 
+    .logo{
+        left: 20px;
+    }
+
     .contenedor_resultado {
         width: 550px;
     }
